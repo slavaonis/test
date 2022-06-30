@@ -10,7 +10,7 @@
 
 ## 3
 - `Q: What is the proper balance between simplicity and performance?`
-- `A: `
+- `A: 50/50 on this, but generally depends on many factors - deadline, task, experience, etc.`
 
 ## 4
 - `Q: Why is it important to reduce repetition in code?`
